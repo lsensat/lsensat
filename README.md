@@ -1,6 +1,6 @@
 <!-- [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6473969dc4ec366ad5b069db?variant=dark&roadmaps=frontend)](https://roadmap.sh) -->
 
-Currently coursing "JavaScript Algorithms and Data Structures" at FreeCodeCamp.
+<!-- Currently coursing "JavaScript Algorithms and Data Structures" at FreeCodeCamp. -->
 
 <!--
 **lsensat/lsensat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
