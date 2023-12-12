@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+> [!IMPORTANT]
+> Currently looking for new opportunities.
 
 <h1 align="left">Hi 👋, I'm Luis</h1>
 <h3 align="left">Full Stack Developer from Spain</h3>
