@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 <h1>Hi 👋, I'm Luis</h1>
 <h3>Full Stack Developer from Spain</h3>
 
-- 🌱 I’m currently learning **JavaScript Algorithms and Data Structures at FreeCodeCamp**
-- following up with **React**
+- 🌱 I’m currently learning **JavaScript Algorithms and Data Structures at FreeCodeCamp** following up with **ReactJS**
 
 - 📫 How to reach me **luis.sensat@gmail.com**
 
