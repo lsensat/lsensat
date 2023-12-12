@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me **luis.sensat@gmail.com**
 
 <p>Bootcamp projects</p>
-- <a href="https://github.com/Moons-J/gourbetter">Gourbetter</a>: find new recipes.
+
+- <a href="https://github.com/Moons-J/gourbetter">Gourbetter</a>: find, rate and share recipes.
 - <a href="https://github.com/valerie-ctrl/my-new-meal-plan">My New Meal Plan</a>: plan your meals while achieving your weight goals!
 
 <h3 align="left">Languages and Tools:</h3>
