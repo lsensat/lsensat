@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p>Bootcamp projects</p>
 
 - <a href="https://github.com/Moons-J/gourbetter">Gourbetter</a>: find, rate and share recipes.
-- <a href="https://github.com/valerie-ctrl/my-new-meal-plan">My New Meal Plan</a>: plan your meals while achieving your weight goals!
+- <a href="https://github.com/Moons-J/my-new-meal-plan">My New Meal Plan</a>: plan your meals while achieving your weight goals!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
