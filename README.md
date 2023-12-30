@@ -82,8 +82,8 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40" />
 </p>
 
+<h3 align="left">Currently learning:</h3>
 <p>
-    Learning:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
 </p>
 
@@ -94,3 +94,6 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luissensatferrer" height="30" width="40" />
   </a>
 </p>
+
+<h3>Codewars</h3>
+<img src="https://www.codewars.com/users/lsensat/badges/large" alt="codewars" />
