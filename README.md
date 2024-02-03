@@ -94,6 +94,3 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luissensatferrer" height="30" width="40" />
   </a>
 </p>
-
-<h3>Codewars</h3>
-<img src="https://www.codewars.com/users/lsensat/badges/large" alt="codewars" />
