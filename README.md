@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **ReactJS**
 - 📫 How to reach me **luis.sensat@gmail.com**
-- <a href="https://troopl.com/luissensat/airbnb-copy">All my projects</a>
+- <a href="https://troopl.com/luissensat">All my projects</a>
 
 <p>Bootcamp projects</p>
 
