@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - <a href="https://github.com/Moons-J/my-new-meal-plan">My New Meal Plan</a>: plan your meals while achieving your weight goals!
 
 Last project!
-- <a href="https://github.com/lsensat/airbnb-copycat">Airbnb copy-cat</a>: an Airbnb copy! Feel free to test it <a href="https://airbnb-copycat-a255131ac82d.herokuapp.com/">here</a>:
+- <a href="https://github.com/lsensat/airbnb-copycat">Airbnb copy-cat</a>: an Airbnb copy! Feel free to test it <a href="https://airbnb-copycat-a255131ac82d.herokuapp.com/" target="_blank">here</a>:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
