@@ -32,8 +32,9 @@ Here are some ideas to get you started:
 - <a href="https://github.com/Moons-J/gourbetter">Gourbetter</a>: find, rate and share recipes.
 - <a href="https://github.com/Moons-J/my-new-meal-plan">My New Meal Plan</a>: plan your meals while achieving your weight goals!
 
-Last project!
-- <a href="https://github.com/lsensat/airbnb-copycat">Airbnb copy-cat</a>: an Airbnb copy! Feel free to test it <a href="https://airbnb-copycat-a255131ac82d.herokuapp.com/" rel="noopener noreferrer" target="_blank">here</a>:
+Projects
+- <a href="https://github.com/lsensat/airbnb-copycat">Airbnb copy-cat</a>: an Airbnb copy! Feel free to test it <a href="https://airbnb-copycat-a255131ac82d.herokuapp.com/" rel="noopener noreferrer" target="_blank">here</a>.
+- (last project) <a href="https://github.com/lsensat/dk-padel-rails-web-app">DK Padel</a>: an app to help manage padel teams in order to schedule matches and invite attendees, confirm and give points accordingly. Test it <a href="https://dk-padel-app-91aef4da71c9.herokuapp.com/" rel="noopener noreferrer" target="_blank">here</a>!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -89,6 +90,9 @@ Last project!
 <h3 align="left">Currently learning:</h3>
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+</p>
+<p>
+    Hotwire Native
 </p>
 
 <h3 align="left">Connect with me:</h3>
