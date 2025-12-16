@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 Projects
 - <a href="https://github.com/lsensat/airbnb-copycat">Airbnb copy-cat</a>: an Airbnb copy! Feel free to test it <a href="https://airbnb-copycat-a255131ac82d.herokuapp.com/" rel="noopener noreferrer" target="_blank">here</a>.
-- (last project) <a href="https://github.com/lsensat/dk-padel-rails-web-app">DK Padel</a>: an app to help manage padel teams in order to schedule matches and invite attendees, confirm and give points accordingly. Test it <a href="https://dk-padel-app-91aef4da71c9.herokuapp.com/" rel="noopener noreferrer" target="_blank">here</a>!
+- (last project) <a href="https://github.com/lsensat/dk-padel-rails-web-app">DK Padel</a>: an app to help manage padel teams in order to schedule matches and invite attendees, confirm and give points accordingly. Test it <a href="http://46.224.96.64/en" rel="noopener noreferrer" target="_blank">here</a>!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
